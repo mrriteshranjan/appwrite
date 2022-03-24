@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+=======
+# Version 0.13.4
+
+## Features
+- Added `detailedTrace` to Logger events
+
+## Bugs
+- Fixed missing volume mount in Docker Compose
+- Fixed upload with Bucket File permission
+- Fixed custom ID validation in Console
+- Fixed file preview with no `output` passed
+- Fixed GitHub issue URL in Console
+- Fixed double PDOException logging
+- Fixed functions cleanup when container is already initialized
+
+>>>>>>> parent of 6f0af6a9d (Update CHANGES.md)
 # Version 0.13.3
 ## Bugs
 - Fixed search for terms that inlcude `@` characters
